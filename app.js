@@ -23,4 +23,7 @@
     screen.value = "";
   });
 })();
+screen.addEventListener('mouseover', function (e){
+screen.style.borderTop = '2' + "px"
+})
  */
